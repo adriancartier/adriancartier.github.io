@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sami Furst"
+title: "Adrian Cartier"
 author_profile: true
 redirect_from:
   - /about/
@@ -19,6 +19,4 @@ header:
 
 # Hey there!
 
-My name is Sami, I'm currently working as a data scientist with training in math, and music. I am originally from Macau, a tiny seaside city in South Eastern China that is now known as Vegas in the East due to its large gambling and tourism industry. Historical fun fact : Macau is simultaneously [the first and the last European colony in Asia](https://www.chicagotribune.com/news/ct-xpm-1999-12-22-9912220059-story.html). In my spare time, I enjoy being in the outdoors, cooking, playing music, and learning new things.
-
-This website is a personal project for me to finally start documenting things I enjoy doing. You'll find things about exploratory data analysis, machine learning, visualization, and also, cats.
+About me.

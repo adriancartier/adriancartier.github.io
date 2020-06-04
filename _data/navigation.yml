@@ -8,14 +8,14 @@ main:
   - title: "Work"
     url: /work/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Cats"
-    url: /cats/
+  #- title: "Cats"
+  #  url: /cats/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
