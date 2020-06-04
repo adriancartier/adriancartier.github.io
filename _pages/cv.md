@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Adrian Cartier, Ph.D"
-permalink: /cv
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
