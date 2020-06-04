@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Furst"
+title                    : "Adrian Cartier"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://samimath.github.io/" #https://samimath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://adriancartier.github.io/" #https://adriancartier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "samimath/samimath.github.io"
+repository               : "adriancartier/adriancartier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sami Furst"
-  avatar           : "profile2.png"
+  name             : "Adrian Cartier"
+  avatar           : "Adrian Cartier_MO4A2187_Outlook-Workday.jpg"
   bio              :
   location         :
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "samimath"
+  github           : "adriancartier"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "samicheong"
+  linkedin         : "adriancartierphd"
   orcid            :
   pinterest        :
   soundcloud       :
