@@ -25,7 +25,7 @@ Adrian joined Enterprise in August 2019. Prior to joining the company, Adrian wa
 
 Adrian has won several awards both internally and externally for his technical contributions in data science at Monsanto. In 2017, he was recognized externally with a CIO 100 award for his work with Monsanto’s global supply chain organization leading the Supply Chain data science transformation optimizing the Supply Chain field operations. 
 
-Adrian remains active in his professional and local community. He has served on various boards from the University of Missouri Industry Advisory board for data science to serving as president of his alma mater’s alumni association. From time to time, Adrian is asked to give guest lectures at Washington University St. Louis school of Engineering where he actively supports their graduate data science program.  Being recognized nationally, as an expert and thought leader in data science Adrian is often asked to give talks on data science transformation. 
+Adrian remains active in his professional and local community. He has served on various boards from the University of Missouri Industry Advisory board for data science to serving as president of his alma mater’s alumni association. From time to time, Adrian is asked to give guest lectures at Washington University St. Louis school of Engineering where he actively supports their graduate data science program.  Being recognized internationally, as an expert and thought leader in data science Adrian is often asked to give talks on data science transformation. 
 
 Prior to his industry work, Adrian held a tenure-track position as a Mathematics professor at the University of Montevallo as well as operated his own analytics consulting firm. 
   
