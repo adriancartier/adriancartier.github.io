@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Things I've Worked on"
+title: "Highlights of my work"
 permalink: /work/
 author_profile: true
 
@@ -20,7 +20,7 @@ img {
 <!--{% include toc.html html=content %} -->
 
 
-# Table of Content<a name = "toc"></a>
+# Table of Contents<a name = "toc"></a>
 1. [The University of Mississippi](#olemiss)
 2. [The University of Montevallo](#montevallo)
 3. [Monsanto / Bayer Crop Science](#monsantobayer)
