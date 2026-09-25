@@ -14,6 +14,8 @@ header:
 
 Adrian Cartier, PhD, is an AI and data science executive with over two decades of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. He currently serves as **Head of AI Accelerator at The Hartford**, where he leads enterprise-wide acceleration of AI and generative AI capabilities for the Fortune 100 insurer.
 
+At the core of Adrian’s work is a passion for **connecting humans with AI and technology**. He believes the future is not an "either/or" choice between human intelligence and machine automation, but rather a **symbiotic relationship**—where humans are **supercharged by AI** when leveraged properly to make better, faster decisions at scale.
+
 Adrian serves as a **Member of the Board of Directors at Freight Science**, an AI-driven decision-automation company serving the U.S. trucking industry that he co-founded, where he led the design and governance of proprietary optimization models contributing to over **$250 million in delivered value**. He also serves as **Strategic Advisor & Investor at Healthcare Shares Venture Studio**, evaluating technical due diligence and system architecture for healthcare technology startups.
 
 Passionate about student mentorship and inspiring the next generation of tech leaders, Adrian frequently gives keynotes and interactive talks to university students on **AI and Startups**—most recently delivering a featured presentation at **NC State University** on commercializing high-impact AI ventures. He also regularly guest lectures for graduate data science programs at **Washington University in St. Louis**.

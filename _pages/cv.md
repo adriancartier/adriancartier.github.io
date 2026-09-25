@@ -14,12 +14,12 @@ St. Louis, MO | adrian.cartierphd@gmail.com | [linkedin.com/in/adriancartierphd]
 ---
 
 ## Executive Summary
-Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $250M+ in operational and commercial value, originating an issued U.S. patent, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
+Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Driven by a core passion for **connecting humans with AI and technology** to build a symbiotic future where humans are **supercharged by AI**. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $250M+ in operational and commercial value, originating an issued U.S. patent, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
 
 ---
 
 ## Signature Strengths
-- **Enterprise AI Strategy**
+- **Enterprise AI Strategy & Human-AI Symbiosis**
 - **Board Governance & Oversight**
 - **University Keynotes & Student Mentorship**
 - **Healthcare & Venture Advisory**
@@ -38,7 +38,6 @@ Data science and AI executive with 20+ years of experience building enterprise d
 - Lead enterprise AI and generative AI acceleration across a Fortune 100 insurer, focusing on reusable platform architecture, controlled experimentation, and risk-governed deployment.
 - Built the enterprise AI operating model, establishing shared platform components, deployment patterns, and governance standards to reduce time-to-production while managing operational risk.
 - Partnered with business unit leaders and technology executives to evaluate use cases, prioritize investments, and deploy compliant AI systems.
-- Established model risk management, accountability, and compliance frameworks across generative and predictive AI deployments.
 
 ### **Freight Science** | St. Louis, MO
 **Member, Board of Directors** *(May 2025 – Present)*
