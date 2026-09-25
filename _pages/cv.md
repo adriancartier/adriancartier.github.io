@@ -9,7 +9,7 @@ redirect_from:
 
 # Adrian Cartier, PhD
 **AI & Data Science Executive | Builder of Decision Systems | Board & Advisory Leader**  
-St. Louis, MO | adrian.cartierphd@gmail.com | [linkedin.com/in/adriancartierphd](https://linkedin.com/in/adriancartierphd)
+St. Louis, MO | adrian@cartierholdings.com | [linkedin.com/in/adriancartierphd](https://linkedin.com/in/adriancartierphd)
 
 ---
 
