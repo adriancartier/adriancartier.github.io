@@ -23,3 +23,5 @@ Previously, he held executive roles at **Ocelot Consulting**, **Enterprise Holdi
 Adrian is an issued U.S. patent holder for sensor-derived agricultural yield monitoring (*U.S. Patent No. 2021009200*). He has delivered keynotes to more than 5,000 attendees on topics including digital fluency, machine learning, operations research, and supply chain transformation, and has authored several academic publications in mathematics and applied data science.
 
 He serves on the Alumni Board of the University of Mississippi College of Liberal Arts and is the Founder and Principal of Cartier Holdings, LLC. Adrian earned his PhD, M.S., and B.A. in Mathematics from the University of Mississippi.
+
+*In his free time, Adrian enjoys spending time with his wife Dana and daughter Alexandria. He can occasionally be found golfing, playing soccer, bourbon tasting, or cheering on his alma mater, the Ole Miss Rebels, every fall.*
