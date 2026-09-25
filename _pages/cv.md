@@ -14,7 +14,7 @@ St. Louis, MO | adrian.cartierphd@gmail.com | [linkedin.com/in/adriancartierphd]
 ---
 
 ## Executive Summary
-Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Driven by a core passion for **connecting humans with AI and technology** to build a symbiotic future where humans are **supercharged by AI**. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $250M+ in operational and commercial value, holding 1 issued U.S. patent with 4 additional U.S. patents pending, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
+Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Driven by a core passion for **connecting humans with AI and technology** to build a symbiotic future where humans are **supercharged by AI**. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $500M+ in operational and commercial value, holding 1 issued U.S. patent with 4 additional U.S. patents pending, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
 
 ---
 
@@ -46,7 +46,7 @@ Data science and AI executive with 20+ years of experience building enterprise d
 
 **Co-Founder & Chief Data Officer** *(June 2020 – May 2025)*
 - Co-founded and built an AI decision-automation software company enabling truckload carriers to optimize tender acceptance, network balance, and pricing across North America.
-- Led the design, production engineering, and deployment of optimization and machine learning models in live carrier operations, generating **$250M+ in measured operational value**.
+- Led the design, production engineering, and deployment of optimization and machine learning models in live carrier operations, generating **$500M+ in measured operational value**.
 
 ### **Healthcare Shares** | St. Louis, MO
 **Strategic Advisor & Investor** *(Aug 2024 – Present)*
