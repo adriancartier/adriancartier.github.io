@@ -22,7 +22,7 @@ Passionate about student mentorship and inspiring the next generation of tech le
 
 Previously, he held executive roles at **Ocelot Consulting**, **Enterprise Holdings** ($24B+ operator), and **Bayer Crop Science (Monsanto)**, where he led a global organization of more than 40 data scientists and engineers, delivered 16 production digital tools across 13 countries, and earned recognition as a **Data Science Fellow**.
 
-Adrian is an issued U.S. patent holder for sensor-derived agricultural yield monitoring (*U.S. Patent No. 2021009200*). He has delivered keynotes to more than 5,000 attendees on topics including digital fluency, machine learning, operations research, and supply chain transformation, and has authored several academic publications in mathematics and applied data science.
+Adrian is an issued U.S. patent holder (*U.S. Patent No. 2021009200*) with 4 additional U.S. patents pending. He has delivered keynotes to more than 5,000 attendees on topics including digital fluency, machine learning, operations research, and supply chain transformation, and has authored several academic publications in mathematics and applied data science.
 
 He serves on the Alumni Board of the University of Mississippi College of Liberal Arts and is the Founder and Principal of Cartier Holdings, LLC. Adrian earned his PhD, M.S., and B.A. in Mathematics from the University of Mississippi.
 

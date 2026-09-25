@@ -14,7 +14,7 @@ St. Louis, MO | adrian.cartierphd@gmail.com | [linkedin.com/in/adriancartierphd]
 ---
 
 ## Executive Summary
-Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Driven by a core passion for **connecting humans with AI and technology** to build a symbiotic future where humans are **supercharged by AI**. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $250M+ in operational and commercial value, originating an issued U.S. patent, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
+Data science and AI executive with 20+ years of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. Driven by a core passion for **connecting humans with AI and technology** to build a symbiotic future where humans are **supercharged by AI**. Former venture co-founder and Chief Data Officer with experience spanning Fortune 100 enterprise leadership and board governance. Track record includes leading global teams of 40+ data scientists and engineers across 13 countries, delivering $250M+ in operational and commercial value, holding 1 issued U.S. patent with 4 additional U.S. patents pending, giving university keynotes on AI & Startups (including NC State University), and serving as Strategic Advisor & Investor for Healthcare Shares Venture Studio. Holds a Ph.D. in Mathematics.
 
 ---
 
@@ -76,8 +76,8 @@ Data science and AI executive with 20+ years of experience building enterprise d
 ---
 
 ## Intellectual Property & Thought Leadership
+- **U.S. Patent Holder**: *Plant Pickers and Related Methods Associated with Yield Detection* (U.S. Patent 2021009200, Granted April 2021). **4 additional U.S. patents pending**.
 - **University Keynote Speaker**: Invited speaker to university students and student founders on **AI and Startups** (including recent keynote at **NC State University**). Guest lecturer at Washington University in St. Louis graduate engineering programs.
-- **Issued U.S. Patent Holder**: *Plant Pickers and Related Methods Associated with Yield Detection* (U.S. Patent 2021009200, Granted April 2021).
 - **Conference Keynote Speaker**: Audiences of up to 5,000 attendees on Digital Fluency, Machine Learning, Operations Research, and Supply Chain Transformation.
 - **Published Author**: Peer-reviewed research papers in pure and applied mathematics.
 
