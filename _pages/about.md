@@ -1,35 +1,25 @@
 ---
-permalink: /
+permalink: /about/
 title: "Adrian Cartier, PhD"
 author_profile: true
 redirect_from:
-  - /about/
   - /about.html
 
 header:
   overlay_image: ../images/water-blue-ocean.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Jaymantri**](https://www.pexels.com/)"
-  actions:
-    - label: "More Info"
-      url: "https://www.pexels.com"
+  overlay_filter: 0.5
 ---
 
-{% include feature_row %}
+# Adrian Cartier, PhD — Executive Biography
 
-# Hey there!
+Adrian Cartier, PhD, is an AI and data science executive with over two decades of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. He currently serves as **Head of AI Accelerator at The Hartford**, where he leads enterprise-wide acceleration of AI and generative AI capabilities for the Fortune 100 insurer.
 
-Adrian Cartier is the Assistant Vice President of Data Science for Enterprise Holdings, Inc. He brings to the company 15 years of experience building and leading robust data science solutions and organizations. In his role, he will be working cross-functionally with business executives and IT leads to build and scale out our global data science practice ushering the organization towards a digital insights-driven company. 
- 
-Adrian joined Enterprise in August 2019. Prior to joining the company, Adrian was the Director of Data Science and Engineering with Monsanto/Bayer where he was responsible for leading a 40+ data science and engineering organization with the charge of connecting our Supply Chain and Commercial strategies through Data Science. At Monsanto, he led multi-year joint research agreement between Monsanto and a multi-national information technology company to co-design and develop innovative and scalable Machine Learning, Geospatial, Operations Research and Engineering tools to accelerate their enterprise data science strategy. Adrian served as a member of Bayer’s Data Science Center of Excellence leadership team and was awarded the distinction of being an Associate Fellow within the Science Fellows Program. His commitment to innovation has led to several data science patent submissions based on his work at Monsanto/Bayer. 
+Adrian serves as a **Member of the Board of Directors at Freight Science**, an AI-driven decision-automation company serving the U.S. trucking industry that he co-founded, where he led the design and governance of proprietary optimization models contributing to over **$250 million in delivered value**. He also serves as **Strategic Advisor & Investor at Healthcare Shares Venture Studio**, evaluating technical due diligence and system architecture for healthcare technology startups.
 
-Adrian has won several awards both internally and externally for his technical contributions in data science at Monsanto. In 2017, he was recognized externally with a CIO 100 award for his work with Monsanto’s global supply chain organization leading the Supply Chain data science transformation optimizing the Supply Chain field operations. 
+Passionate about student mentorship and inspiring the next generation of tech leaders, Adrian frequently gives keynotes and interactive talks to university students on **AI and Startups**—most recently delivering a featured presentation at **NC State University** on commercializing high-impact AI ventures. He also regularly guest lectures for graduate data science programs at **Washington University in St. Louis**.
 
-Adrian remains active in his professional and local community. He has served on various boards from the University of Missouri Industry Advisory board for data science to serving as president of his alma mater’s alumni association. From time to time, Adrian is asked to give guest lectures at Washington University St. Louis school of Engineering where he actively supports their graduate data science program.  Being recognized internationally, as an expert and thought leader in data science Adrian is often asked to give talks on data science transformation. 
+Previously, he held executive roles at **Ocelot Consulting**, **Enterprise Holdings** ($24B+ operator), and **Bayer Crop Science (Monsanto)**, where he led a global organization of more than 40 data scientists and engineers, delivered 16 production digital tools across 13 countries, and earned recognition as a **Data Science Fellow**.
 
-Prior to his industry work, Adrian held a tenure-track position as a Mathematics professor at the University of Montevallo as well as operated his own analytics consulting firm. 
-  
-In his free time, he enjoys spending time with his wife Dana and daughter Alexandria. Occasionally he can be found golfing, playing soccer, bourbon tasting or watching his Alma mater the Ole Miss Rebels take the gridiron every fall. 
- 
-Adrian holds a Doctorate in Mathematics from the University of Mississippi, where his research focused on the intersection between Topology, Group Theory, Category Theory, and Graph Theory. 
+Adrian is an issued U.S. patent holder for sensor-derived agricultural yield monitoring (*U.S. Patent No. 2021009200*). He has delivered keynotes to more than 5,000 attendees on topics including digital fluency, machine learning, operations research, and supply chain transformation, and has authored several academic publications in mathematics and applied data science.
 
+He serves on the Alumni Board of the University of Mississippi College of Liberal Arts and is the Founder and Principal of Cartier Holdings, LLC. Adrian earned his PhD, M.S., and B.A. in Mathematics from the University of Mississippi.

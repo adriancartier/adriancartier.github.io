@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrian Cartier"
+title                    : "Adrian Cartier, PhD — AI & Data Science Executive"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://adriancartier.github.io" #https://adriancartier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Adrian Cartier, PhD"
+description              : &description "AI & Data Science Executive, Board Member, U.S. Patent Holder, and Co-Founder."
+url                      : "https://adriancartier.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adriancartier/adriancartier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
