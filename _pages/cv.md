@@ -78,6 +78,7 @@ Data science and AI executive with 20+ years of experience building enterprise d
 
 ## Intellectual Property & Thought Leadership
 - **U.S. Patent Holder**: *Plant Pickers and Related Methods Associated with Yield Detection* (U.S. Patent 2021009200, Granted April 2021). **4 additional U.S. patents pending**.
+- **Featured Author**: *"From Idea to Production: How an AI Co-Developer Taught Me Cloud Architecture, Agentic Workflows, and $0.00 AI Workflows"* (Published on [LinkedIn Pulse](https://www.linkedin.com/pulse/from-idea-production-how-ai-co-developer-taught-me-000-cartier-phd-fn9gc/)).
 - **University Keynote Speaker**: Invited speaker to university students and student founders on **AI and Startups** (including recent keynote at **NC State University**). Guest lecturer at Washington University in St. Louis graduate engineering programs.
 - **Conference Keynote Speaker**: Audiences of up to 5,000 attendees on Digital Fluency, Machine Learning, Operations Research, and Supply Chain Transformation.
 - **Published Author**: Peer-reviewed research papers in pure and applied mathematics.
