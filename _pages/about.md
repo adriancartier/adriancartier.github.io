@@ -12,7 +12,7 @@ header:
 
 # Adrian Cartier, PhD — Executive Biography
 
-Adrian Cartier, PhD, is an AI and data science executive with over two decades of experience building enterprise decision platforms, commercializing software products, and governing AI systems in regulated environments. He currently serves as **Head of AI Accelerator at The Hartford**, where he leads enterprise-wide acceleration of AI and generative AI capabilities for the Fortune 100 insurer.
+Adrian Cartier, PhD, is an AI and data science executive with over two decades of experience building enterprise decision platforms, commercializing software products, and governing AI systems across all three major cloud environments (**AWS, Microsoft Azure, and Google Cloud Platform / GCP**). He currently serves as **Head of AI Accelerator at The Hartford**, where he leads enterprise-wide acceleration of AI and generative AI capabilities for the Fortune 100 insurer.
 
 At the core of Adrian’s work is a passion for **connecting humans with AI and technology**. He believes the future is not an "either/or" choice between human intelligence and machine automation, but rather a **symbiotic relationship**—where humans are **supercharged by AI** when leveraged properly to make better, faster decisions at scale.
 
